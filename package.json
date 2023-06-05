@@ -1,0 +1,23 @@
+{
+    "name": "cms-blog-site",
+    "version": "1.0.0",
+    "description": "CMS-style blog site",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.1.4",
+      "dotenv": "^10.0.0",
+      "bcrypt": "^5.0.1",
+      "express-handlebars": "^5.3.4",
+      "express-session": "^1.17.2",
+      "connect-mongodb-session": "^4.4.0",
+      "express-validator": "^6.12.2"
+      
+    }
+  }
+  
