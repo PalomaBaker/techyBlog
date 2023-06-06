@@ -1,6 +1,9 @@
 {
     "name": "cms-blog-site",
     "version": "1.0.0",
+    "engines":{
+        "node":"14.x"
+    },
     "description": "CMS-style blog site",
     "main": "server.js",
     "scripts": {
